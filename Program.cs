@@ -33,8 +33,6 @@ namespace Rextester
                 }
                 return column;
             }
-            
-            return 0;
         }
     }
 }
